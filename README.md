@@ -1,4 +1,4 @@
-# Prompt-Based-Image-Generation-Using-on-Stable-Diffusion
+# Prompt Based Image Generation Using Stable Diffusion
 
 # Vanilla Installation using Gradio and ngrok for local deployment and testing on your system
 
